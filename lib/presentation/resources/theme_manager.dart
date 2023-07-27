@@ -1,7 +1,7 @@
-import 'package:clean_architecture_with_mvvm/presentation/color_manager.dart';
-import 'package:clean_architecture_with_mvvm/presentation/font_manager.dart';
-import 'package:clean_architecture_with_mvvm/presentation/styles_manager.dart';
-import 'package:clean_architecture_with_mvvm/presentation/value_manager.dart';
+import 'package:clean_architecture_with_mvvm/presentation/resources/color_manager.dart';
+import 'package:clean_architecture_with_mvvm/presentation/resources/font_manager.dart';
+import 'package:clean_architecture_with_mvvm/presentation/resources/styles_manager.dart';
+import 'package:clean_architecture_with_mvvm/presentation/resources/value_manager.dart';
 import 'package:flutter/material.dart';
 
 ThemeData getApplicationTheme() {
